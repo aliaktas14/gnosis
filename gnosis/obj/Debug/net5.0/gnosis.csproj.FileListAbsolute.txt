@@ -8,7 +8,6 @@ D:\projects\gnosis\gnosis\bin\Debug\net5.0\gnosis.dll
 D:\projects\gnosis\gnosis\bin\Debug\net5.0\ref\gnosis.dll
 D:\projects\gnosis\gnosis\bin\Debug\net5.0\gnosis.pdb
 D:\projects\gnosis\gnosis\bin\Debug\net5.0\gnosis.Views.dll
-D:\projects\gnosis\gnosis\bin\Debug\net5.0\gnosis.Views.pdb
 D:\projects\gnosis\gnosis\obj\Debug\net5.0\gnosis.csprojAssemblyReference.cache
 D:\projects\gnosis\gnosis\obj\Debug\net5.0\gnosis.GeneratedMSBuildEditorConfig.editorconfig
 D:\projects\gnosis\gnosis\obj\Debug\net5.0\gnosis.AssemblyInfoInputs.cache
